@@ -8,9 +8,6 @@ print(cal_avg(x, y))
 def a(x):
     x = x + 1
     return x
-
-
-x = 3
+x = 4
 x = a(x)
-
 print(x)
